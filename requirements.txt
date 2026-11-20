@@ -1,0 +1,6 @@
+# Versions used for the assignemnt (NVIDIA RTX 5000 Ada Laptop GPU, CUDA 13.0).
+torch==2.14.1
+torchvision==0.29.1
+numpy==2.5.4
+wandb==0.31.0
+matplotlib==3.11.2
