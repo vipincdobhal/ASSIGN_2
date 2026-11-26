@@ -7,7 +7,7 @@ hand-written quantization pipeline: BatchNorm folding, bit-packed k-bit weights,
 activations and quantization-aware training (QAT). **No compression or quantization APIs
 are used.** Every compression step is built from elementary tensor operations in `compress.py`.
 
-Repository: `<ADD YOUR GITHUB REPOSITORY LINK HERE>`
+Repository: `<https://github.com/vipincdobhal/ASSIGN_2>`
 
 ---
 
@@ -47,8 +47,8 @@ Results were produced with:
 `requirements.txt` pins these versions.
 
 ```bash
-git clone <ADD YOUR GITHUB REPOSITORY LINK HERE>
-cd <repository-folder>
+git clone https://github.com/vipincdobhal/ASSIGN_2
+cd ASSIGN_2
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu130

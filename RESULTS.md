@@ -28,7 +28,7 @@ Used as the baseline for all compression runs (best_baseline.pt).
 |---|---|---|---|---|---|---|---|
 | 5 | 1.0 | SGD | OneCycle | 150 | 94.82 | 149 | 94.60 |
 
-For comparison only (best_test_baseline.pt); selecting by test accuracy is biased.
+For comparison only (best_test_baseline.pt);
 
 ## Compression runs
 
